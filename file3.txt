@@ -1,1 +1,1 @@
-This is file3 changes
+This is file3 changes in feature3
